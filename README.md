@@ -1,4 +1,4 @@
-# Training
+# Training -- Polimorfismo
 
 Andres Mateo Londoño Rivera
 
